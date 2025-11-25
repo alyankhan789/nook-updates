@@ -1,0 +1,15 @@
+{
+  "version": "0.2.30",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2025-11-25T01:38:19Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUTlkSGZiWDFFaWhlUXg0VlVLR3VlRm9vZXR3bmpDaG5TbGY1MVh4VzZkV2h1Y2ZLRGpWclJkZ1R5WHBLWk5aQnQrSmpwbHJXdW9ZMjVta1V1TzBHcTJlKzROQjhraWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MDM0NjUyCWZpbGU6Tm9vay5hcHAudGFyLmd6ClMxUzQrL1ZVMjVsL0VtVXRSZWdIMm1pVklCbVNTV3FpT3hCa0h1Z0NlQ01JTVBhRFh6UDVJN05TN3NiMXppbjAvWHJsVEt3bVhKVHJMOEpLQXoyMkNnPT0K",
+      "url": "https://raw.githubusercontent.com/alyankhan789/nook-updates/main/Nook_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUTlkSGZiWDFFaW5uczFOc0lKblYyeitaRWVxdUJhaWtEQU5OcnRhSVNGYms1OG15MEJpVEJqNlZDMmNZZ043SUdaeWZkajh5UGxpdE5ZY1Q3UEQ0cGF2N2Z4dlFhdUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MDM0Njc1CWZpbGU6Tm9vay5hcHAudGFyLmd6CnNFd2xUYTFkWkM4UFl5WTM3NG9CNnF1R3BQN0N6cWdnbCtIL2Nkd2hWOU5BeFYreTFQU0xaeHBYRCtiZXpJRm5vakw2Um9Ua1ZVQWZjbnAxNHJYY0NnPT0K",
+      "url": "https://raw.githubusercontent.com/alyankhan789/nook-updates/main/Nook_x64.app.tar.gz"
+    }
+  }
+}
